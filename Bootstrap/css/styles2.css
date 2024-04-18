@@ -1,0 +1,17 @@
+.surf {
+    width: 721px;
+    height: 412px;
+  }
+
+.background {
+    background-color: ivory;
+}
+.text {
+    text-align: center;
+    font-weight: bold;
+    
+}
+.font {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
